@@ -1,4 +1,6 @@
-<h1 align="center">Ciao, I'm Daniele 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=520&height=60&lines=Ciao%2C+I%27m+Daniele+%F0%9F%91%8B;Data+Scientist+by+training;Builder+by+instinct" alt="Ciao, I'm Daniele 👋">
+</p>
 
 <p align="center">
   <b>MSc Data Science & Management @ LUISS · Head of <a href="https://github.com/mayai-it">MayAI</a> · Rome, Italy 🇮🇹</b>
@@ -17,7 +19,7 @@
 
 ---
 
-Data scientist by training, builder by instinct. I work across the whole pipeline: **business intelligence** and **predictive modeling** on real operational data, **embeddings & RAG** for search that actually answers, **scraping** to build the datasets nobody hands you. Some of it becomes products at [**MayAI**](https://mayai.it), where we build AI that works the way Italian businesses do. Measurable, reproducible, deployable.
+Data scientist by training, builder by instinct. I work across the whole pipeline: **business intelligence** and **predictive modeling** on real operational data, **embeddings & RAG** for search that actually answers, **scraping** to build the datasets nobody hands you. Some of it becomes products at [**MayAI**](https://mayai.it), where we build AI that works the way Italian businesses do. Measurable, reproducible, deployable — not demos.
 
 ## 🔧 Projects
 
