@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🔍 <i>Open to internships & trainee roles in Data Science / AI — open to relocation</i>
+  🔍 <i>Open to internships & trainee roles in Data Science / AI Engineer — open to relocation</i>
 </p>
 
 <p align="center">
