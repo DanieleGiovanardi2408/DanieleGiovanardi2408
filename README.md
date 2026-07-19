@@ -17,7 +17,7 @@
 
 ---
 
-Data scientist by training, builder by instinct. I work across the whole pipeline: **business intelligence** and **predictive modeling** on real operational data, **embeddings & RAG** for search that actually answers, **scraping** to build the datasets nobody hands you. Some of it becomes products at [**MayAI**](https://mayai.it), where we build AI that works the way Italian businesses do. Measurable, reproducible, deployable — not demos.
+Data scientist by training, builder by instinct. I work across the whole pipeline: **business intelligence** and **predictive modeling** on real operational data, **embeddings & RAG** for search that actually answers, **scraping** to build the datasets nobody hands you. Some of it becomes products at [**MayAI**](https://mayai.it), where we build AI that works the way Italian businesses do. Measurable, reproducible, deployable.
 
 ## 🔧 Projects
 
