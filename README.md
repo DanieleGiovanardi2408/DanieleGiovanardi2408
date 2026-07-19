@@ -19,12 +19,13 @@
 
 ---
 
-Data scientist by training, builder by instinct. I work across the whole pipeline: **business intelligence** and **predictive modeling** on real operational data, **embeddings & RAG** for search that actually answers, **scraping** to build the datasets nobody hands you. Some of it becomes products at [**MayAI**](https://mayai.it), where we build AI that works the way Italian businesses do. Measurable, reproducible, deployable.
+Data scientist by training, builder by instinct. I work across the whole pipeline: **business intelligence** and **predictive modeling** on real operational data, **embeddings & RAG** for search that actually answers, **scraping** to build the datasets nobody hands you. Some of it becomes products at [**MayAI**](https://mayai.it), where we build AI that works the way Italian businesses do. Measurable, reproducible, deployable — not demos.
 
 ## 🔧 Projects
 
 | | |
 |---|---|
+| [**Whisperer**](https://github.com/DanieleGiovanardi2408/Whisperer) 🏆 | Memory layer for long voice-agent calls — distills the conversation into an evidence-backed state ledger: recall 0/10 → 10/10, lower cost per turn. **Winner @ HackRome 2026** |
 | [**BackPropBandits**](https://github.com/DanieleGiovanardi2408/BackPropBandits) | Anomaly detection built twice — classical pipeline vs LangGraph multi-agent — with LLM-narrated risk reports *(LUISS × Reply)* |
 | [**DiscoverAI**](https://github.com/DanieleGiovanardi2408/DiscoverAI) | Semantic search over 300k+ Amazon reviews: two-tower embeddings, FAISS, hybrid re-ranking *(LUISS × Deloitte)* |
 | [**idea-radar**](https://github.com/DanieleGiovanardi2408/idea-radar) | Spots emerging tech before it saturates — momentum, not stars. Local LLMs, fully offline |
