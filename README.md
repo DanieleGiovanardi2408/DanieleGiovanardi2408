@@ -66,7 +66,7 @@ Data scientist by training, builder by instinct. I work across the whole pipelin
 
 ## 🌱 Interests
 
-**Business intelligence & predictive modeling** on real operational data · **embeddings & RAG** for semantic retrieval · **scraping & data pipelines** at scale · **AI agents** that run high-friction processes end-to-end · agent evaluation & benchmarking · risk modeling · local-first LLMs · shipping complete products, backend to UI
+**Business intelligence & predictive modeling** on real operational data · **embeddings & RAG** for semantic retrieval · **voice agents** — memory & context engineering for long calls, so they don't drift or forget (the problem behind [Whisperer](https://github.com/DanieleGiovanardi2408/Whisperer)) · **scraping & data pipelines** at scale · **AI agents** that run high-friction processes end-to-end · agent evaluation & benchmarking · risk modeling · local-first LLMs · shipping complete products, backend to UI
 
 ---
 
