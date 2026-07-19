@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>MSc Data Science & Management @ LUISS · Head of <a href="https://github.com/mayai-it">MayAI</a> · Rome 🇮🇹 · Amsterdam 🇳🇱</b>
+  <b>MSc Data Science & Management · Head of <a href="https://github.com/mayai-it">MayAI</a> · Rome 🇮🇹 · Amsterdam 🇳🇱</b>
 </p>
 
 <p align="center">
