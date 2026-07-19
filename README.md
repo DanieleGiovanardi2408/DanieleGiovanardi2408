@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://mayai.it"><img src="https://img.shields.io/badge/mayai.it-website-2ea44f?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/daniele-giovanardi"><img src="https://img.shields.io/badge/LinkedIn-daniele--giovanardi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/MayAI_it"><img src="https://img.shields.io/badge/@MayAI__it-X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-  <a href="mailto:dani.giovanardi@hotmail.it"><img src="https://img.shields.io/badge/dani.giovanardi@hotmail.it-email-EA4335?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="https://mayai.it">🌐 mayai.it</a> ·
+  <a href="https://www.linkedin.com/in/daniele-giovanardi">💼 LinkedIn</a> ·
+  <a href="https://x.com/MayAI_it">🐦 X</a> ·
+  <a href="mailto:dani.giovanardi@hotmail.it">✉️ dani.giovanardi@hotmail.it</a>
 </p>
 
 ---
@@ -72,17 +72,17 @@ I care about systems that are **measurable, reproducible and deployable**, not d
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **AI & Agents**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama_local_LLMs-000000?style=flat-square&logo=ollama&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-FF6B35?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat-square)
 
 **Product & Backend**
 
@@ -96,22 +96,15 @@ I care about systems that are **measurable, reproducible and deployable**, not d
 
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
-![mypy](https://img.shields.io/badge/mypy_--strict-2A6DB2?style=flat-square)
+![mypy](https://www.mypy-lang.org/static/mypy_badge.svg)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MIT](https://img.shields.io/badge/Open_Source-MIT-blue?style=flat-square)
+![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 ## 🌱 Interests
 
-Multi-agent architectures that earn their complexity · semantic search & NLP on messy real-world text · evaluation and benchmarking of AI agents · credit & operational risk modeling · local-first LLMs · open-source developer tooling for the Italian ecosystem 🇮🇹
+**AI for public procurement & public-sector data.** The problem I keep coming back to: public opportunities — tenders, grants, incentives — live scattered across hundreds of fragmented platforms, in inconsistent formats, and companies miss them or drown in the paperwork. I'm convinced the winning use of AI right now is not chatbots but agents that do the bureaucratic heavy-lifting **end-to-end**: scraping and monitoring those sources at scale, normalizing them into a single data model, matching opportunities to a company's actual profile, and helping assemble the technical bid documents. It's the itch behind [bandiradar](https://github.com/mayai-it/bandiradar), and the space I want to keep building in.
 
-Off the keyboard: competitive **Brazilian Jiu-Jitsu** 🥋, **enduro & off-road riding** 🏍️ (yes, that's what [off](https://github.com/DanieleGiovanardi2408/off) is for), and **theatre & public speaking** 🎭
-
-## 📈 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanieleGiovanardi2408&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleGiovanardi2408&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="165">
-</p>
+**Also on my radar:** large-scale scraping & data pipelines · multi-agent architectures that earn their complexity · semantic search & NLP on messy real-world text · evaluation and benchmarking of AI agents · credit & operational risk modeling · local-first LLMs · open-source developer tooling for the Italian ecosystem 🇮🇹
 
 ---
 
